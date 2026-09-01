@@ -6,11 +6,11 @@
 
 Welcome to the **Sparki** ecosystem! This repository serves as the central showcase for the Sparki family of products, anchoring each project to its dedicated repository.
 
-[**🌐 Visit the Official Sparki Website**](https://leanwell.github.io/portfolio/sparki.html)
+[**Visit the Official Sparki Website**](https://leanwell.github.io/portfolio/sparki.html)
 
 ---
 
-## 📦 Available Projects
+## Available Projects
 
 Explore the current lineup of Sparki projects available in their respective repositories:
 
@@ -19,7 +19,7 @@ Explore the current lineup of Sparki projects available in their respective repo
 
 ---
 
-## 🚀 Upcoming Projects
+## Upcoming Projects
 
 We are constantly expanding the Sparki family. Keep an eye out for these upcoming projects:
 
